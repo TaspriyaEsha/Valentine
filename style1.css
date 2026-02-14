@@ -1,0 +1,31 @@
+.playwrite-cu-guides-regular {
+  font-family: "Playwrite CU Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+.first-div{
+  background-image: url( Valentine_day_background.jpg);
+  width: 100%;
+  font-size: 200px;
+  margin-bottom: 30px;
+  text-align: center;
+  border: 1.5px dotted paleturquoise;
+  border-radius: 10px;
+  color: rgb(180, 195, 199);
+
+}
+.sweetheart{
+  font-size: 100px;
+}
+.link{
+  text-decoration: none;
+  font-size: 50px;
+  color: cadetblue;
+
+}
+a{
+  color: cadetblue;
+}
+a:visited{
+  color: yellowgreen;
+}
