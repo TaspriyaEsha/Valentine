@@ -1,6 +1,6 @@
 .love{
     text-align: center;
-    background-image: url(wish_image.jpg);
+    background-image: url( ../Valentine/wish_image.jpg);
     font-size: 300px;
-    width: auto;
+    width: 100%;
 }
